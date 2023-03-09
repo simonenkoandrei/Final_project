@@ -1,0 +1,15 @@
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\bin\Debug\net6.0\Final_project.exe
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\bin\Debug\net6.0\Final_project.deps.json
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\bin\Debug\net6.0\Final_project.runtimeconfig.json
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\bin\Debug\net6.0\Final_project.dll
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\bin\Debug\net6.0\Final_project.pdb
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.csproj.AssemblyReference.cache
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.AssemblyInfoInputs.cache
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.AssemblyInfo.cs
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.csproj.CoreCompileInputs.cache
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.dll
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\refint\Final_project.dll
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.pdb
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\Final_project.genruntimeconfig.cache
+C:\Users\SimonenkoAV\Мой диск\GeekBrains\GIT\Final_project\obj\Debug\net6.0\ref\Final_project.dll
